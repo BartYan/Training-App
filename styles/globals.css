@@ -32,3 +32,10 @@ h1 {
 h3 {
   color: #F72585;
 }
+
+#editorjs {
+  min-width: 100%;
+}
+.ce-block__content {
+  max-width: 800px;
+}
